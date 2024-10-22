@@ -5,9 +5,9 @@
 A dedicated Data Analyst with a passion for turning data into meaningful insights. I've worked on various projects, including those focused on retail sales, customer behavior and entertainment analysis. Always eager to learn, I continuously seek new challenges and opportunities to enhance my skills in SQL, Power BI, and DAX. I believe in the power of data to inform decisions and drive progress.
 
 # Skills
-SQL (MySQL, MSSQL)
-Power BI (DAX)
-Excel
+* SQL (MySQL, MSSQL)
+* Power BI (DAX)
+* Excel
 
 
 
