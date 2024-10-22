@@ -5,9 +5,9 @@
 A dedicated Data Analyst with strong skills in SQL, Power BI, and DAX, I am passionate about transforming data into actionable insights. Actively learning to enhance my expertise in data analytics, I embrace new challenges and believe in the power of continuous learning to drive professional growth and success.
 
 # Skills
-* SQL (MySQL, MSSQL)
+* SQL (MySQL, MSSQL, PostgreSQL)
 * Power BI (DAX)
-* Excel
+* Excel (Pivot Tables, IF Functions, Visualizations)
 
 
 
