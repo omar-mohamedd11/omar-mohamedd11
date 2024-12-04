@@ -7,6 +7,7 @@ A dedicated Data Analyst with strong skills in SQL, Power BI, and DAX, I am pass
 # Skills
 * SQL (MySQL, MSSQL, PostgreSQL)
 * Power BI (DAX)
+* Python
 * Excel (Pivot Tables, IF Functions, Visualizations)
 
 
