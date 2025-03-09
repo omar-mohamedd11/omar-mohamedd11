@@ -7,10 +7,12 @@ A dedicated Data Analyst and Business Analyst with strong expertise in SQL, Powe
 Actively expanding my expertise in data analytics, business intelligence, and workflow automation, I embrace new challenges and believe in the power of continuous learning to drive professional growth and success.
 
 # Skills
-* SQL (MySQL, MSSQL, PostgreSQL)
-* Power BI (DAX, Data Modeling)
-* Python (Numpy, Pandas, Matplotlib, Seaborn)
-* Excel (Pivot Tables, IF Functions, Visualizations)
+- **Programming Languages:** SQL | Python  
+- **Databases:** MySQL | Microsoft SQL Server | PostgreSQL  
+- **Spreadsheets:** Excel (Power Query, Pivot Tables, Advanced Formulas) | Google Sheets  
+- **Data Visualization Tools:** Power BI (DAX, Data Modeling) | Tableau | Python Visualization Libraries (Seaborn, Matplotlib)  
+- **Data Analysis & Manipulation:** Numpy | Pandas  
+- **Presentation Software:** PowerPoint | Canva  
 
 
 
