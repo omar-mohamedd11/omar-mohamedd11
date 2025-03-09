@@ -2,7 +2,9 @@
 
 # Omar Mohamed
 
-A dedicated Data Analyst with strong skills in SQL, Power BI, and DAX, I am passionate about transforming data into actionable insights. Actively learning to enhance my expertise in data analytics, I embrace new challenges and believe in the power of continuous learning to drive professional growth and success.
+A dedicated Data Analyst and Business Analyst with strong expertise in SQL, Power BI (DAX, Power Query), Tableau, Python, and Excel, I am passionate about transforming data into actionable insights. With hands-on experience in market research, financial modeling, customer behavior analysis, and interactive dashboard creation, I thrive on solving complex business problems through data.
+
+Actively expanding my expertise in data analytics, business intelligence, and workflow automation, I embrace new challenges and believe in the power of continuous learning to drive professional growth and success.
 
 # Skills
 * SQL (MySQL, MSSQL, PostgreSQL)
