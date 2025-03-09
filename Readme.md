@@ -1,6 +1,6 @@
 ![](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 
-# Omar Mohamed
+# Omar Mohamed [📄 Resume](https://drive.google.com/file/d/1YLfrQALkHCQZqHgI4b84CRiwMD6J21BN/view?usp=sharing)
 
 A dedicated Data Analyst and Business Analyst with strong expertise in SQL, Power BI (DAX, Power Query), Tableau, Python, and Excel, I am passionate about transforming data into actionable insights. With hands-on experience in market research, financial modeling, customer behavior analysis, and interactive dashboard creation, I thrive on solving complex business problems through data.
 
